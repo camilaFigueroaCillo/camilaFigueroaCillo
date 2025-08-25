@@ -1,6 +1,6 @@
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXB5MnYzaGdhajBzbHhoMTRwZm50czN5cG93eHMxcjlxa3VnN2t5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.gif"  />
 
-<h1 align="left">Hi, I'm Camila 👋</h1>
+<h3>Hi, I'm Camila 👋</h3>
 
 ###
 
